@@ -61,7 +61,7 @@ public class Lesson3 {
             String answer = scanner.nextLine();
             if (answer.equals("")) break;
             else if (word.equals(answer)) {
-                System.out.println("Вы угадали слово, игра закончена!!!");
+                System.out.println("Вы угадали слово, игра закончена!");
                 break;
             }
 
